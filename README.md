@@ -1,3 +1,3 @@
-# pg_back_script
+# pg_backup_script
 
 shell script for backup postgresdb
